@@ -85,7 +85,7 @@ hr {
 	font-size: 20px;
 	color: #54d0dd;
 	font-weight: 500;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: 1px;
 }
 #menu a.navbar-brand i.fa {
@@ -104,7 +104,7 @@ hr {
 	color: #54d0dd;
 }
 .on {
-	background-color: #343b42 !important;
+	background-color: #343b42 !important; /*  Cor do NavBar */
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -124,6 +124,19 @@ hr {
 .section-title {
 	padding-bottom: 50px;
 }
+
+/* Arredondando Nav */
+
+.nav-left{
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+.nav-right{
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
 .btn-custom {
 	text-transform: uppercase;
 	color: #414a52;
@@ -163,7 +176,7 @@ hr {
 	padding: 0;
 	text-align: center;
 	background: url(../img/intro-bg.jpg) no-repeat center bottom;
-	background-color: #e5e5e5;
+	background-color:rgba(113,119,125,1);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
