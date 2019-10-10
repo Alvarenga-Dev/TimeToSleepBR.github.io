@@ -22,13 +22,9 @@ O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas sur
 
 # Como instalar o aplicativo
 
-- Primeiramente faça <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/raw/master/download/tts.apk">download</a> do aplicativo para o seu celular.
+- Primeiramente faça <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/raw/master/download/tts.apk" >download</a> do aplicativo para o seu celular.
 
-<<<<<<< HEAD
-- Libere as Fontes desconhecida do seu celular. ou acesse no <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html">link</a> para um site externo
-=======
-- Libere as Fontes desconhecida do seu celular.
->>>>>>> 04d01ef21efe3eed8711d9b08e9b36e8668de401
+- Libere as Fontes desconhecida do seu celular. ou acesse no <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html" target="_blank">link</a> para um site externo
 
 <p align="center">
     <img  src="https://t.tudocdn.net/385044?w=660&h=392" width="500" height="250"> </img>
@@ -39,13 +35,8 @@ O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas sur
 
 - Conecte o Bluetooth do nosso dispositivo no seu celular (isso só é necessário fazer uma unica vez)
 
-- Pronto, tudo configurado e pronto, só falta usar agora 😃, Bons sonhos!
-<<<<<<< HEAD
+- Finalizado, tudo configurado e pronto, só falta usar agora, Bons sonhos! 😃
 
-## Copyright © 2019 Time to Sleep. license MIT
+### Copyright © 2018 - 2019 Time to Sleep. license <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">MIT</a>
 
-=======
 
-## Copyright and license
-- Copyright © 2019 Time to Sleep. license MIT
->>>>>>> 04d01ef21efe3eed8711d9b08e9b36e8668de401
