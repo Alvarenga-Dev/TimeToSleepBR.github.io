@@ -1,6 +1,6 @@
 <p align="center">
     <a href="TimeToSleepBR.github.io">
-        <img src="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/img/logo_oficial_tts.png" width="150">
+        <img src="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/img/logo_oficial_tts.png" width="300">
     </a>
 </p>
 
