@@ -1,4 +1,10 @@
 <p align="center">
+
+    <a href="TimeToSleepBR.github.io">
+        <img src="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/img/logo_oficial_tts.svg" width="150">
+    </a>
+</p>
+=======
     <a href="https:TimeToSleepBR.github.io">
         <img src="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/img/logo_oficial_tts.png" width="300">
     </a>
@@ -38,5 +44,4 @@ O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas sur
 - Finalizado, tudo configurado e pronto, só falta usar agora, Bons sonhos! 😃
 
 ### Copyright © 2018 - 2019 Time to Sleep. license <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">MIT</a>
-
 
