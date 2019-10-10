@@ -326,6 +326,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	outline: none;
 	outline-offset: none;
 }
+
 /* rodapé */
 #footer {
 	background: #343b42;
