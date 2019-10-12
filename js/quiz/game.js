@@ -14,14 +14,15 @@ let questionCounter = 0;
 let availableQuesions = [];
 
 let questions = [
+ 
   {
-    "question": "Qual a quantidade de pessoas surdas no mundo?",
-    "choice1": "2.34  Milhões",
-    "choice2": "360   Milhões",
-    "choice3": "67.3  Milhões",
-    "choice4": "1.02  Milhão",
-    "choice5": "22.4  Milhões",
-    "answer": 2
+    "question": "Teste, Todas as respostas são 1 :D",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "choice5": "5",
+    "answer": 1
   },
   {
     "question": "Teste, Todas as respostas são 1 :D",
@@ -107,14 +108,13 @@ let questions = [
 ];
 
 //CONSTANTS
-const CORRECT_BONUS = 100;
-const MAX_QUESTIONS = 10;
+const CORRECT_BONUS = 10;
+const MAX_QUESTIONS = 5;
 
 startGame = () => {
   questionCounter = 0;
   score = 0;
   availableQuesions = [...questions];
-  console.log(availableQuesions)
   getNewQuestion();
   game.classList.remove("hidden");
   loader.classList.add("hidden");
@@ -172,6 +172,5 @@ incrementScore = num => {
   score += num;
   scoreText.innerText = score;
 };
-
 
 startGame();
