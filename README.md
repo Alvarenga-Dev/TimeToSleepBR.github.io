@@ -41,5 +41,6 @@ O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas sur
 
 - Finalizado, tudo configurado e pronto, só falta usar agora, Bons sonhos! 😃
 
-### Copyright © 2018 - 2019 Time to Sleep. license <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">MIT</a>
+## License 
+Copyright © 2018 - 2019 Time to Sleep. license <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">MIT</a>
 
