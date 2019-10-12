@@ -22,9 +22,9 @@ O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas sur
 
 # Como instalar o aplicativo
 
-- Primeiramente faça <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/raw/master/download/tts.apk" >download</a> do aplicativo para o seu celular.
+- Primeiramente faça download do aplicativo para o seu celular, por  <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/raw/master/download/tts.apk" >aqui</a> ou pelo botão no nosso site
 
-- Libere as Fontes desconhecida do seu celular. caso nao consiga acesse o <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html" target="_blank">link</a> para um site externo com um breve tutorial
+- Libere as Fontes desconhecida do seu celular. caso não consiga acesse o <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html" target="_blank">link</a> para um site externo com um breve tutorial
 
 <p align="center">
     <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html">
