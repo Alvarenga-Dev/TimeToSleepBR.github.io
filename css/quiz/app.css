@@ -99,6 +99,10 @@ h3 {
 	background-color: #414a52;
 }
 
+.btnHightscore{
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
 /* FORMS */
 form {
   width: 100%;

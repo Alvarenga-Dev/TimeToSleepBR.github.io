@@ -1,9 +1,10 @@
 const username = document.getElementById("username");
+const email = document.getElementById("email");
 const saveScoreBtn = document.getElementById("saveScoreBtn");
 const finalScore = document.getElementById("finalScore");
 const mostRecentScore = localStorage.getItem("mostRecentScore");
 const highScoresTeste = JSON.parse(localStorage.getItem("highScoresTeste")) || [];
-const MAX_HIGH_SCORES = 5;
+const MAX_HIGH_SCORES = 1000;
 
 finalScore.innerText = mostRecentScore;
 
@@ -17,13 +18,14 @@ saveHighScore = e => {
 
   const score = {
     score: mostRecentScore,
-    name: username.value
+    name: username.value,
+    mail: email.value
   };
-
+  console.log(score)
 
   highScoresTeste.push(score);
   highScoresTeste.sort((a, b) => b.score - a.score);
-  highScoresTeste.splice(5);
+  highScoresTeste.splice(MAX_HIGH_SCORES);
 
   localStorage.setItem("highScoresTeste", JSON.stringify(highScoresTeste));
   window.location.assign("/quiz.html");
