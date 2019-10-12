@@ -109,8 +109,8 @@ let questions = [
 
 //CONSTANTS
 const CORRECT_BONUS = 100;
-const MAX_QUESTIONS = 1;
-const TIME_QUESTIONS = 1;
+const MAX_QUESTIONS = 3;
+const TIME_QUESTIONS = 100;
 
 startGame = () => {
   questionCounter = 0;

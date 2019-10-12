@@ -12,5 +12,5 @@ highScoresList.innerHTML = highScoresTeste
   })
   .join("");
 
-console.log(JSON.parse(localStorage.getItem("highScoresTeste")))
+
 

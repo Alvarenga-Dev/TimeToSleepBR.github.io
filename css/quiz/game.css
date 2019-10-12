@@ -49,14 +49,17 @@
   text-align: center;
 }
 
+
 #progressBar {
-  width: 20rem;
+  border-radius: 25px;
+  width: 25rem;
   height: 4rem;
   border: 0.3rem solid #54d0dd;
   margin-top: 1.5rem;
 }
 
 #progressBarFull {
+  border-radius: 15px;
   height: 3.4rem;
   background-color: #54d0dd;
   width: 0%;
