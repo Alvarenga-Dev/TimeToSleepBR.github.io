@@ -108,8 +108,8 @@ let questions = [
 ];
 
 //CONSTANTS
-const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 5;
+const CORRECT_BONUS = 100;
+const MAX_QUESTIONS = 10;
 
 startGame = () => {
   questionCounter = 0;
@@ -164,7 +164,7 @@ choices.forEach(choice => {
     setTimeout(() => {
       selectedChoice.parentElement.classList.remove(classToApply);
       getNewQuestion();
-    }, 1000);
+    }, 1200);
   });
 });
 
