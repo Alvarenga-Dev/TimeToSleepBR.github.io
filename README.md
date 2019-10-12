@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">
-        <img src="https://img.shields.io/aur/license/pac" alt="">
+        <img src="https://img.shields.io/aur/license/pac" alt=""></img>
     </a>
 </p>
 
