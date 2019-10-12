@@ -99,10 +99,15 @@ h3 {
 	background-color: #414a52;
 }
 
-.btnHightscore{
+.btn-hightscore{
   margin-top: 0px;
   margin-bottom: 50px;
 }
+
+.btn-quiz{
+  color: azure;
+}
+
 /* FORMS */
 form {
   width: 100%;

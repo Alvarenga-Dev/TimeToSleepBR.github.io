@@ -4,7 +4,7 @@ const saveScoreBtn = document.getElementById("saveScoreBtn");
 const finalScore = document.getElementById("finalScore");
 const mostRecentScore = localStorage.getItem("mostRecentScore");
 const highScoresTeste = JSON.parse(localStorage.getItem("highScoresTeste")) || [];
-const MAX_HIGH_SCORES = 1000;
+const MAX_HIGH_SCORES = 5;
 
 finalScore.innerText = mostRecentScore;
 
