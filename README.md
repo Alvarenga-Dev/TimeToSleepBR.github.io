@@ -9,7 +9,7 @@
 <p align="center">Acessibilidade • Eficiência • Durabilidade</p>
 
 <p align="center">
-    <a href="https://travis-ci.com/Dogfalo/materialize">
+    <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">
         <img src="https://img.shields.io/aur/license/pac" alt="">
     </a>
 </p>
@@ -24,13 +24,17 @@ O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas sur
 
 - Primeiramente faça <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/raw/master/download/tts.apk" >download</a> do aplicativo para o seu celular.
 
-- Libere as Fontes desconhecida do seu celular. ou acesse no <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html" target="_blank">link</a> para um site externo
+- Libere as Fontes desconhecida do seu celular. caso nao consiga acesse o <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html" target="_blank">link</a> para um site externo com um breve tutorial
 
 <p align="center">
-    <img  src="https://t.tudocdn.net/385044?w=660&h=392" width="500" height="250"> </img>
+    <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html">
+        <img  src="https://t.tudocdn.net/385044?w=660&h=392" width="500" height="250"> </img>
+    </a>
 </p>
 <p align="center">
-    <img align="center" src="https://t.tudocdn.net/385042?w=660&h=551" width="500" height="300"> </img>
+     <a href="https://www.tudocelular.com/curiosidade/noticias/n139751/como-instalar-apps-fontes-desconhecidas-android.html">
+        <img align="center" src="https://t.tudocdn.net/385042?w=660&h=551" width="500" height="300"> </img>
+    </a>
 </p>
 
 - Conecte o Bluetooth do nosso dispositivo no seu celular (isso só é necessário fazer uma unica vez)
