@@ -36,9 +36,9 @@ let questions = [
     "question": "O que significa INES",
     "choice1": "Instituição Nacional de Educação para Surdos",
     "choice2": "Instituto Nacional de Educação de Surdos",
-    "choice3": "Instituição Nativo de Educação para Surdos",
+    "choice3": "Instituição Nativa de Educação para Surdos",
     "choice4": "Instituição Nacional de Educação de Surdos",
-    "choice5": "Instituto Nativo de Educação para Surdos",
+    "choice5": "Instituto Nativa de Educação para Surdos",
     "answer": 2
   },
   {
