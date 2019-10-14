@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Time to Sleep - End</title>
+  <meta name="description" content="OV-timeéumdispositivo,quepertenceaTime">
+  <meta name="keywords" content="Time to Sleep, V-time, surdo, acessibilidade, durabilidade">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Time to Sleep">
+
+  <!-- Favicons (icone para o navegador) -->
+  <link rel="icon" href="img/favicons/menor.png" sizes="16x16" />
+  <link rel="icon" href="img/favicons/favicon.png" sizes="32x32" />
+
+  <link rel="stylesheet" href="css/quiz/app.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div id="end" class="flex-center flex-column">
+      <h1 id="finalScore"></h1>
+      <form>
+        <input type="text" name="username" id="username" placeholder="username" required autofocus />
+        <input type="email" name="email" id="email" placeholder="email" required />
+        <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event); saveTotalScore(event)"
+          disabled>
+          Save
+        </button>
+      </form>
+      <a class="btn" href="game.html">Jogar Novamente</a>
+      <a class="btn" href="quiz.html">Voltar para Home</a>
+    </div>
+  </div>
+  <script src="js/quiz/end.js"></script>
+</body>
+
+</html>
