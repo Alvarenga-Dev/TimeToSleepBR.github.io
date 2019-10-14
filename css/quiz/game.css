@@ -49,8 +49,9 @@
   text-align: center;
 }
 
+/* Progress Bar */ 
 #progressBar {
-  border-radius: 25px;
+  border-radius: 20px;
   width: 25rem;
   height: 4rem;
   border: 0.3rem solid #54d0dd;
