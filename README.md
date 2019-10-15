@@ -13,6 +13,7 @@
     <img src=https://img.shields.io/badge/status-online-success"" alt=""></img>
     <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">
         <img src="https://img.shields.io/aur/license/pac" alt=""></img>
+    </a>
     <img src=https://img.shields.io/badge/version-0.5.7-blueviolet"" alt=""></img>
     <img src="https://img.shields.io/github/contributors/timetosleepbr/timetosleepbr.github.io" alt=""></img>
     <img src="https://img.shields.io/github/last-commit/timetosleepbr/timetosleepbr.github.io" alt=""></img>
