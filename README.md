@@ -1,18 +1,34 @@
 <p align="center">
-    <a href="TimeToSleepBR.github.io">
+    <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io#quem-somos">
         <img src="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/img/logo_oficial_tts.png" width="300">
     </a>
 </p>
 
 <h3 align="center">Time To Sleep</h3>
 
+
 <p align="center">Acessibilidade • Eficiência • Durabilidade</p>
 
 <p align="center">
+     <a href="">
+        <img src=https://img.shields.io/badge/status-online-success"" alt=""></img>
+    </a>
     <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/blob/master/LICENSE">
         <img src="https://img.shields.io/aur/license/pac" alt=""></img>
     </a>
+    <a href="">
+        <img src=https://img.shields.io/badge/version-0.5.7-blueviolet"" alt=""></img>
+    </a>
+     <a href="">
+        <img src="https://img.shields.io/github/contributors/timetosleepbr/timetosleepbr.github.io" alt=""></img>
+    </a>
+     <a href="">
+        <img src="https://img.shields.io/github/last-commit/timetosleepbr/timetosleepbr.github.io" alt=""></img>
+    </a>
+   
+   
 </p>
+
 
 # Quem somos 
 O V-time é um produto pertencente a Time to Sleep, que iniciou este projeto em dezembro de 2018.
