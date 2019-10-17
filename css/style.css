@@ -294,6 +294,9 @@ header .intro-text {
 	line-height: 21px;
 }
 
+.download{
+	padding-bottom: 30%;
+}
 /* Contato */
 
 #contact {
