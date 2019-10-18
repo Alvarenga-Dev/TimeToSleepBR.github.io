@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/github/last-commit/timetosleepbr/timetosleepbr.github.io" alt=""></img>
 </p>
 
-# Quem somos 
+## Quem somos 
 O V-time é um produto pertencente a Time to Sleep, que iniciou este projeto em dezembro de 2018.
 
-# O que é o V-Time
+## O que é o V-Time
 O V-time é um dispositivo que foi criado com o intuito de ajudar as pessoas surdas a ter uma maior autonomia na hora de levantar. Mas procurou-se pensar em criar algo que troxesse: acessibilidade, eficiência e durabilidade. Também pensando no seu conforto, assim foi construido este dispositivo compacto que traz a você uma autonomia na hora de acordar!
 
-# Como instalar o aplicativo
+## Como instalar o aplicativo
 
 - **Passo 1:** Primeiramente faça download do aplicativo para o seu celular, por  <a href="https://github.com/TimeToSleepBR/TimeToSleepBR.github.io/raw/master/download/tts.apk" >aqui</a> ou pelo botão no nosso site
 
