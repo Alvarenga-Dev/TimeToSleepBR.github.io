@@ -1,6 +1,6 @@
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
-console.log(choices)
+console.log(choices);
 const progressText = document.getElementById("progressText");
 const scoreText = document.getElementById("score");
 const progressBarFull = document.getElementById("progressBarFull");
@@ -15,94 +15,96 @@ let availableQuesions = [];
 
 let questions = [
   {
-    "question": "Qual a quantidade de pessoas surdas no mundo?",
-    "choice1": "2.34  Milhões",
-    "choice2": "360   Milhões",
-    "choice3": "67.3  Milhões",
-    "choice4": "1.02  Milhão",
-    "choice5": "22.4  Milhões",
-    "answer": 2
+    question: "Qual a quantidade de pessoas surdas no mundo?",
+    choice1: "2.34  Milhões",
+    choice2: "360   Milhões",
+    choice3: "67.3  Milhões",
+    choice4: "1.02  Milhão",
+    choice5: "22.4  Milhões",
+    answer: 2
   },
   {
-    "question": "Quando foi fundada a primeira escola para surdos no Brasi?",
-    "choice1": "1907",
-    "choice2": "1748",
-    "choice3": "1857",
-    "choice4": "1978",
-    "choice5": "1604",
-    "answer": 3
+    question: "Quando foi fundada a primeira escola para surdos no Brasi?",
+    choice1: "1907",
+    choice2: "1748",
+    choice3: "1857",
+    choice4: "1978",
+    choice5: "1604",
+    answer: 3
   },
   {
-    "question": "O que significa INES",
-    "choice1": "Instituição Nacional de Educação para Surdos",
-    "choice2": "Instituto Nacional de Educação de Surdos",
-    "choice3": "Instituição Nativ de Educação para Surdos",
-    "choice4": "Instituição Nacional de Educação de Surdos",
-    "choice5": "Instituto Nativ de Educação para Surdos",
-    "answer": 2
+    question: "O que significa INES",
+    choice1: "Instituição Nacional de Educação para Surdos",
+    choice2: "Instituto Nacional de Educação de Surdos",
+    choice3: "Instituição Nativ de Educação para Surdos",
+    choice4: "Instituição Nacional de Educação de Surdos",
+    choice5: "Instituto Nativ de Educação para Surdos",
+    answer: 2
   },
   {
-    "question": "De onde veio a Libras (Língua Brasileira de Sinais) ?",
-    "choice1": "Língua Portuguesa de Sinais",
-    "choice2": "Língua Latina de Sinais",
-    "choice3": "Língua Eslovaca de Sinais",
-    "choice4": "Língua Inglesa de Sinais",
-    "choice5": "Língua Francesa de Sinais",
-    "answer": 5
+    question: "De onde veio a Libras (Língua Brasileira de Sinais) ?",
+    choice1: "Língua Portuguesa de Sinais",
+    choice2: "Língua Latina de Sinais",
+    choice3: "Língua Eslovaca de Sinais",
+    choice4: "Língua Inglesa de Sinais",
+    choice5: "Língua Francesa de Sinais",
+    answer: 5
   },
   {
-    "question": "Onde fica localizado o INES?",
-    "choice1": "R. das Laranjeiras",
-    "choice2": "R. Bento Lisboa",
-    "choice3": "R. Barata Ribeiro",
-    "choice4": "R. Lins de Vasconcelos",
-    "choice5": "R. Juruviara de Carvalho",
-    "answer": 1
+    question: "Onde fica localizado o INES?",
+    choice1: "R. das Laranjeiras",
+    choice2: "R. Bento Lisboa",
+    choice3: "R. Barata Ribeiro",
+    choice4: "R. Lins de Vasconcelos",
+    choice5: "R. Juruviara de Carvalho",
+    answer: 1
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    question: "Quantos surdos terá no mundo em 2050",
+    choice1: "630 milhões",
+    choice2: "900 milhões",
+    choice3: "1,84 bilhões",
+    choice4: "1,93 bilhões",
+    choice5: "2,34 bilhões",
+    answer: 2
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    question: "Quantos surdos existem no Brasil",
+    choice1: "152 mil",
+    choice2: "300 mil",
+    choice3: "822 mil",
+    choice4: "43 milhões",
+    choice5: "10 milhões",
+    answer: 5
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    question: "Libras é a _______ língua oficial do Brasil",
+    choice1: "Segunda",
+    choice2: "Primeira",
+    choice3: "Quinta",
+    choice4: "Terceira",
+    choice5: "Única",
+    answer: 1
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    question: "Surdo-mudo é um termo _______",
+    choice1: "correto mas os surdos não gostam",
+    choice2: "correto e deve ser usado",
+    choice3: "incorreto mas pode deve ser usado",
+    choice4: "incorreto e nunca deve ser usado",
+    choice5: "correto mas nunca deve ser usado",
+    answer: 4
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    question: "A língua de sinais se originou da língua oral?",
+    choice1: "Sim, a Libras se originou da lingua portuguesa",
+    choice2:
+      "Não, cada língua de sinais tem influência histórica de outras línguas de sinais",
+    choice3: "Sim, você fala igual a linguagem oral",
+    choice4:
+      "Não, cada língua de sinais tem influência histórica de outras línguas de sinais",
+    choice5: "Sim, elas não poder sem criadas do nada",
+    answer: 4
   }
 ];
 

@@ -45,48 +45,48 @@
     "answer": 1
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
+    "question": "Quantos surdos terá no mundo em 2050",
+    "choice1": "630 milhões",
+    "choice2": "900 milhões",
+    "choice3": "1,84 bilhões",
+    "choice4": "1,93 bilhões",
+    "choice5": "2,34 bilhões",
+    "answer": 2
+  },
+  {
+    "question": "Quantos surdos existem no Brasil",
+    "choice1": "152 mil",
+    "choice2": "300 mil",
+    "choice3": "822 mil",
+    "choice4": "43 milhões",
+    "choice5": "10 milhões",
+    "answer": 5
+  },
+  {
+    "question": "Libras é a _______ língua oficial do Brasil",
+    "choice1": "Segunda",
+    "choice2": "Primeira",
+    "choice3": "Quinta",
+    "choice4": "Terceira",
+    "choice5": "Única",
     "answer": 1
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    "question": "Surdo-mudo é um termo _______",
+    "choice1": "correto mas os surdos não gostam",
+    "choice2": "correto e deve ser usado",
+    "choice3": "incorreto mas pode deve ser usado",
+    "choice4": "incorreto e nunca deve ser usado",
+    "choice5": "correto mas nunca deve ser usado",
+    "answer": 4
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
-  },
-  {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
-  },
-  {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    "question": "A língua de sinais se originou da língua oral?",
+    "choice1": "Sim, a Libras se originou da lingua portuguesa",
+    "choice2": "Não, cada língua de sinais tem influência histórica de outras línguas de sinais",
+    "choice3": "Sim, você fala igual a linguagem oral",
+    "choice4": "Não, cada língua de sinais tem influência histórica de outras línguas de sinais",
+    "choice5": "Sim, elas não poder sem criadas do nada",
+    "answer": 4
   }
 ]
