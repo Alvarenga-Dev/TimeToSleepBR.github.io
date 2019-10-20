@@ -36,27 +36,27 @@ let questions = [
     "question": "O que significa INES",
     "choice1": "Instituição Nacional de Educação para Surdos",
     "choice2": "Instituto Nacional de Educação de Surdos",
-    "choice3": "Instituição Nativa de Educação para Surdos",
+    "choice3": "Instituição Nativ de Educação para Surdos",
     "choice4": "Instituição Nacional de Educação de Surdos",
-    "choice5": "Instituto Nativa de Educação para Surdos",
+    "choice5": "Instituto Nativ de Educação para Surdos",
     "answer": 2
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
-    "answer": 1
+    "question": "De onde veio a Libras (Língua Brasileira de Sinais) ?",
+    "choice1": "Língua Portuguesa de Sinais",
+    "choice2": "Língua Latina de Sinais",
+    "choice3": "Língua Eslovaca de Sinais",
+    "choice4": "Língua Inglesa de Sinais",
+    "choice5": "Língua Francesa de Sinais",
+    "answer": 5
   },
   {
-    "question": "Teste, Todas as respostas são 1 :D",
-    "choice1": "1",
-    "choice2": "2",
-    "choice3": "3",
-    "choice4": "4",
-    "choice5": "5",
+    "question": "Onde fica localizado o INES?",
+    "choice1": "R. das Laranjeiras",
+    "choice2": "R. Bento Lisboa",
+    "choice3": "R. Barata Ribeiro",
+    "choice4": "R. Lins de Vasconcelos",
+    "choice5": "R. Juruviara de Carvalho",
     "answer": 1
   },
   {
